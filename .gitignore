@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# OS junk
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Data files
+data/raw/*.numbers
+data/raw/*.xlsx
